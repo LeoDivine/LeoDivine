@@ -5,8 +5,8 @@
 ⚡ Engineered federal & state-level revenue management systems (like Transpay) — powering large-scale financial operations.<br>🌐 Driving the ISCE Ecosystem’s expansion — shaping digital tools for entrepreneurs and professionals. <br>🤝 Building Collaborate, a sleek project management platform designed for seamless teamwork.<br>✉️ Developed an internal mailing system — streamlining organizational communication.<br>🦷 Creating a Patient Management System for a dental clinic — improving care delivery and efficiency.<br>🏡 Crafting a real estate platform — making property management simpler and more accessible.
 
 # 🎯 Currently Exploring
-Mastering database manipulation and query optimization
-Writing optimized, scalable, and maintainable code<br><br>Diving deeper into TypeORM & Prisma<br><br>Leveraging AI and its tools to enhance development workflows<br><br>Honing core frontend engineering skills — from clean UI/UX design patterns to performance optimization, accessibility, and maintainable code practices<br><br>👉 Always excited to learn, build, and collaborate on projects that solve real problems and make an impact.
+Mastering database manipulation and query optimization<br>Writing optimized, scalable, and maintainable code<br><br>Diving deeper into TypeORM & Prisma<br><br>Leveraging AI and its tools to enhance development workflows<br>Honing core frontend engineering skills — from clean UI/UX design patterns to performance optimization, accessibility, and maintainable code practices
+<br>Here to learn, build, and occasionally convince my code to behave<br>Shipping features that solve problems — and not just adding console.logs.
 
 
 ## 🌐 Socials:
