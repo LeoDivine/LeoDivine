@@ -7,7 +7,8 @@
 # 🎯 Currently Exploring
 Mastering database manipulation and query optimization<br>Writing optimized, scalable, and maintainable code<br>Diving deeper into TypeORM & Prisma<br>Leveraging AI and its tools to enhance development workflows<br>Honing core frontend engineering skills — from clean UI/UX design patterns to performance optimization, accessibility, and maintainable code practices
 #
-Here to learn, build, and occasionally convince my code to behave<br>Shipping features that solve problems — and not just adding console.logs
+Here to learn, build, and occasionally convince my code to behave<br>Shipping features that solve problems — and not just adding console.logs<br>Always excited to learn, build, and collaborate on projects that solve real problems… and create fewer new ones
+#
 
 
 ## 🌐 Socials:
