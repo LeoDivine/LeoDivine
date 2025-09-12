@@ -2,9 +2,10 @@
 💻 Software Engineer passionate about building scalable, modern web applications.<br>🚀 Skilled in Next.js, TypeScript, JavaScript, TailwindCSS, Framer Motion, PostgreSQL, Zod, ShadCN UI, Prisma, and React.<br><br>
 
 # 🛠️ What I’ve Built & Contributed To<br><br>
-⚡ Engineered federal & state-level revenue management systems (like Transpay) — powering large-scale financial operations.<br><br>🌐 Driving the ISCE Ecosystem’s expansion — shaping digital tools for entrepreneurs and professionals. <br>🤝 Building Collaborate, a sleek project management platform designed for seamless teamwork.<br>✉️ Developed an internal mailing system — streamlining organizational communication.<br>🦷 Creating a Patient Management System for a dental clinic — improving care delivery and efficiency.<br><br>🏡 Crafting a real estate platform — making property management simpler and more accessible.
+⚡ Engineered federal & state-level revenue management systems (like Transpay) — powering large-scale financial operations.<br>🌐 Driving the ISCE Ecosystem’s expansion — shaping digital tools for entrepreneurs and professionals. <br>🤝 Building Collaborate, a sleek project management platform designed for seamless teamwork.<br>✉️ Developed an internal mailing system — streamlining organizational communication.<br>🦷 Creating a Patient Management System for a dental clinic — improving care delivery and efficiency.<br>🏡 Crafting a real estate platform — making property management simpler and more accessible.
 
-# 🎯 Currently Exploring<br><br>Mastering database manipulation and query optimization
+# 🎯 Currently Exploring
+Mastering database manipulation and query optimization
 Writing optimized, scalable, and maintainable code<br><br>Diving deeper into TypeORM & Prisma<br><br>Leveraging AI and its tools to enhance development workflows<br><br>Honing core frontend engineering skills — from clean UI/UX design patterns to performance optimization, accessibility, and maintainable code practices<br><br>👉 Always excited to learn, build, and collaborate on projects that solve real problems and make an impact.
 
 
