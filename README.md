@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divine
 💻 Software Engineer passionate about building scalable, modern web applications.<br>🚀 Skilled in Next.js, TypeScript, JavaScript, TailwindCSS, Framer Motion, PostgreSQL, Zod, ShadCN UI, Prisma, and React.<br><br>
 
-# 🛠️ What I’ve Built & Contributed To<br><br>
+# 🛠️ What I’ve Built & Contributed To
 ⚡ Engineered federal & state-level revenue management systems (like Transpay) — powering large-scale financial operations.<br>🌐 Driving the ISCE Ecosystem’s expansion — shaping digital tools for entrepreneurs and professionals. <br>🤝 Building Collaborate, a sleek project management platform designed for seamless teamwork.<br>✉️ Developed an internal mailing system — streamlining organizational communication.<br>🦷 Creating a Patient Management System for a dental clinic — improving care delivery and efficiency.<br>🏡 Crafting a real estate platform — making property management simpler and more accessible.
 
 # 🎯 Currently Exploring
