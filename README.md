@@ -1,24 +1,92 @@
-# 👋 Hi, I'm Divine
-💻 Software Engineer passionate about building scalable, modern web applications.<br>🚀 Skilled in Next.js, TypeScript, JavaScript, TailwindCSS, Framer Motion, PostgreSQL, Zod, ShadCN UI, Prisma, and React.<br><br>
+<div align="center">
 
-# 🛠️ What I’ve Built & Contributed To
-⚡ Engineered federal & state-level revenue management systems (like Transpay): Automate levy collection for commercial vehicles across multiple LGAs and states.<br>🌐 Driving the ISCE Ecosystem’s expansion: A digital platform designed to help student entrepreneurs, professionals, and business owners connect, collaborate, and grow through tools like CONNECT, STORE, EVENTS, and WALLET. <br>🤝 Building Collaborate, a sleek project management platform designed for seamless teamwork.<br>✉️ Developed an internal mailing system: Streamlining organizational communication.<br>🦷 Creating a Patient Management System for a dental clinic: Improving care delivery and efficiency.<br>🏡 Crafting a real estate platform: Making property management simpler and more accessible.
+# 👋 Hi, I'm Divine Onyekachukwu
+### **Software Engineer • Full-Stack Systems & Modern Web Applications**
 
-# 🎯 Currently Exploring
-Mastering database manipulation and query optimization<br>Writing optimized, scalable, and maintainable code<br>Diving deeper into TypeORM & Prisma<br>Leveraging AI and its tools to enhance development workflows<br>Honing core frontend engineering skills — from clean UI/UX design patterns to performance optimization, accessibility, and maintainable code practices
-#
-Here to learn, build, and occasionally convince my code to behave<br>Shipping features that solve problems — and not just adding console.logs<br>Always excited to learn, build, and collaborate on projects that solve real problems… and create fewer new ones
-#
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divineonyekachukwu)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dev_divine101)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@divine101)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev.divine_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tech.divine101@gmail.com)
 
+<p align="center">
+  <em>Engineering resilient backend architectures, intuitive interfaces, and high-performance digital platforms that solve real-world problems.</em>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.divine_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divineonyekachukwu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divine101) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev_divine101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tech.divine101@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeoDivine&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LeoDivine&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDivine&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 **Core Focus**: Designing scalable, end-to-end full-stack web applications with Next.js, TypeScript, PostgreSQL, and modern cloud infrastructure.
+- 🏗️ **Architectural Interest**: Database query optimization, schema design, high-concurrency state management, and building clean, accessible UI design systems.
+- 🎯 **Current Focus**: Advancing database performance & index tuning, deep-diving into ORM internals (Prisma, TypeORM), and leveraging AI toolchains to accelerate production workflows.
+- 💡 **Engineering Philosophy**: *"Shipping software that delivers measurable value — robust systems, clean abstractions, and fewer console.logs."*
+
+---
+
+## 🛠️ Featured Systems & Projects
+
+| Project | Domain / Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **Transpay** | **Civic & Revenue Tech**<br>Automated levy and revenue collection platform for commercial transport across LGAs and state levels. Handles high-volume daily transactional audits. | `Next.js` `TypeScript` `PostgreSQL` `Prisma` `TailwindCSS` |
+| **ISCE Ecosystem** | **Commerce & Community Platform**<br>Integrated digital ecosystem empowering student entrepreneurs and SMEs through distinct modules: *Connect*, *Store*, *Events*, and *Wallet*. | `React` `Node.js` `PostgreSQL` `Zod` `ShadCN UI` |
+| **Collaborate** | **Real-Time Productivity**<br>Collaborative project management tool featuring streamlined team workspaces, instant task synchronization, and workflow boards. | `Next.js` `TypeScript` `Socket.io` `TailwindCSS` |
+| **Dental Care PMS** | **HealthTech**<br>Electronic patient management system for clinics to streamline appointment scheduling, clinical history, and billing workflows. | `React` `TypeScript` `PostgreSQL` `Prisma` |
+| **Real Estate Hub** | **PropTech**<br>Modern listing and property management platform facilitating verified tenant-landlord discovery and transaction pipelines. | `Next.js` `TailwindCSS` `Framer Motion` `Supabase` |
+| **Internal Comms Hub** | **Enterprise Tooling**<br>High-reliability internal mailing and notification service designed for secure intra-organizational communication. | `Node.js` `Express` `PostgreSQL` `Docker` |
+
+---
+
+## 💻 Tech Stack & Tooling
+
+### **Frontend & User Experience**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_14+-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+
+### **Backend, APIs & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+### **DevOps, Cloud & Architecture**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoDivine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Divine's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoDivine&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LeoDivine&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed & engineered with care by <b>Divine Onyekachukwu</b> • Open for engineering roles and high-impact collaborations.</sub>
+</div>
